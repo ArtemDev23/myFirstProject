@@ -1,8 +1,5 @@
-*{
-    margin: 0;
-    padding: 0;
-    font-size: 16px;
-    font-weight: normal;
+.body{
+    font-family: 'DM Sans', sans-serif;
 }
 .container{
    
@@ -62,6 +59,9 @@
     background: #f5602f;
     transition: 500ms;
 }
+.image:hover{
+    background: rgb(181, 255, 131);
+    transition: 300ms;}
 .about_title{
     font-weight: bold;
     font-size: 80px;
